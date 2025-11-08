@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This is a script that returns information about 
+This is a script thatt returns information about 
 an employee's todo list progress
 """
 

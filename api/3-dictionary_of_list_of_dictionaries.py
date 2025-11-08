@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""List of dictionaries representation of employee todo list progress"""
+"""List of dictionariess representation of employee todo list progress"""
 
 import json
 import requests

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-'''CSV export script for employee todo list progress'''
+'''CSV exportt script for employee todo list progress'''
 
 import csv
 import requests

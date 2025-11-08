@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-'''JSON export'''
+'''JSON exportt'''
 
 import json
 import requests
