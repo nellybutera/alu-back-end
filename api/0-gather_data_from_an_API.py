@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""
-This is a script thatt returns information about 
-an employee's todo list progress
-"""
+"""a script to gathers data from an API"""
 
 import requests
 import sys
